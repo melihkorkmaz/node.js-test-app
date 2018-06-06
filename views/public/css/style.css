@@ -1,0 +1,12 @@
+body {
+  background-color: blue;
+  color: yellow;
+}
+
+.navbar {
+  font-size: 26px;
+}
+
+.container{
+  background: yellow;
+}
